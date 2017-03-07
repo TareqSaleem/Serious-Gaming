@@ -1,0 +1,9 @@
+c:\users\tareq\Documents\Visual Studio 2015\Projects\MathCar\MathCar\bin\Debug\MathCar.exe.config
+c:\users\tareq\Documents\Visual Studio 2015\Projects\MathCar\MathCar\bin\Debug\MathCar.exe
+c:\users\tareq\Documents\Visual Studio 2015\Projects\MathCar\MathCar\bin\Debug\MathCar.pdb
+c:\users\tareq\Documents\Visual Studio 2015\Projects\MathCar\MathCar\obj\Debug\MathCar.csprojResolveAssemblyReference.cache
+c:\users\tareq\Documents\Visual Studio 2015\Projects\MathCar\MathCar\obj\Debug\MathCar.Form1.resources
+c:\users\tareq\Documents\Visual Studio 2015\Projects\MathCar\MathCar\obj\Debug\MathCar.Properties.Resources.resources
+c:\users\tareq\Documents\Visual Studio 2015\Projects\MathCar\MathCar\obj\Debug\MathCar.csproj.GenerateResource.Cache
+c:\users\tareq\Documents\Visual Studio 2015\Projects\MathCar\MathCar\obj\Debug\MathCar.exe
+c:\users\tareq\Documents\Visual Studio 2015\Projects\MathCar\MathCar\obj\Debug\MathCar.pdb
